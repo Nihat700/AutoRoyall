@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navtop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+}
+.nav2 ul{
+    display: flex;
+    
+}
+ul{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul li{
+    padding: 0 15px;
+}
+.logo img{
+    width: 180px;
+    
+}
+.left{
+    float: left;
+    width: 50%;
+    padding: 300px 20px 0 15px;
+    height: 100vh;
+}
+.right{
+    float: right;
+    width: 50%;
+    padding: 150px 50px 0 0;
+    height: 100vh;
+}
+.right img{
+    width: 700px;
+}
+.left h1{
+    color: darkslateblue;
+    padding: 0 0 30px 0;
+}
+.plaros{
+    padding: 35px 0 0 100px;
+    display: flex;
+    background-color:mediumblue;
+    width: 1100px;
+    height: 140px;
+    border-radius: 8px;
+    
+}
+.plan2{
+    padding: 0 45px;
+}
+.plan4{
+    padding: 0 45px ;
+}
+.plaros p{
+    color:azure;
+}
+.plaros h3{
+    color: white;
+}
+.plaraa{
+    padding: 0 0 0 100px;
+}
+.plan5 button{
+    width: 140px;
+    height: 45px;
+    border-radius: 10px;
+    background-color:rgb(255, 75, 75);
+}
+.ayri a{
+    color: blue;
+}
+
+
